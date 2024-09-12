@@ -1,11 +1,9 @@
 <p align="center">
   <a href="https://github.com/climax1115">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Blockchain+Developer;5+years+of+experience;High+productivity+%26+Best+communication">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Trading+Bot+Developer;5+years+of+experience;High+productivity+%26+Best+communication">
   </a>
 </p>
-<p align="center">
-  <img align="center" src="./assets/blockchainLogo.png" style = "width: -webkit-fill-available;"/>
-</p>
+
 Hello, I am a blockchain developer with strong logic and deepest comprehension about the nature of blockchain, hence providing every client perfect product in time. I always find pleasure in working with clients who have brilliant ideas.
 
 ## Experienced Blockchain Networks
